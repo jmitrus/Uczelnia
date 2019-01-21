@@ -1,0 +1,12 @@
+Jest to symulator uczylni. Program potrafi:
+-Zliczyæ ile jest osob na uczelni
+-Tworzyæ i dodawaæ studentów 
+-Tworzyæ i dodawaæ pracowników
+-Wyœwietlaæ oddzielnie pracowników i studentów
+-Wykorzystane s¹:
+ kolekcje, mapy
+ porówniania instanceof
+ StringBuffer
+ Scanner
+ Dziedziczenie
+ Petle,switch
